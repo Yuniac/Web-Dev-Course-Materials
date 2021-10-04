@@ -3,7 +3,7 @@
 -   tech we are going to cover, the tools we are going to need.
 -   vscode setup, git setup.
 -   codepen, jsfiddle.
--   -   jsfiddle example: https://jsfiddle.net/Yuniac/mckujq32/6/
--   -   codepen example (1): https://codepen.io/Yuniac/pen/zYNzVoV
--   -   codepen example (2): https://codepen.io/Yuniac/pen/VwPgNMY
+    -   jsfiddle example: https://jsfiddle.net/Yuniac/mckujq32/6/
+    -   codepen example (1): https://codepen.io/Yuniac/pen/zYNzVoV
+    -   codepen example (2): https://codepen.io/Yuniac/pen/VwPgNMY
 -   stackoverflow, how to search the problem.
