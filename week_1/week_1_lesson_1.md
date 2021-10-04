@@ -1,7 +1,7 @@
 -   introductions, interests, english level, the reason behind signing up for this.
 -   what is a front-end developer.
 -   tech we are going to cover, the tools we are going to need.
--   vscode setup, git setup.
+-   vscode setup, git setup, github.
 -   codepen, jsfiddle.
     -   jsfiddle example: https://jsfiddle.net/Yuniac/mckujq32/6/
     -   codepen example (1): https://codepen.io/Yuniac/pen/zYNzVoV
