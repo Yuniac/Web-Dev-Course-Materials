@@ -71,4 +71,4 @@ University of Awesome motto: "Be awesome to each other." -- The memoirs of Bill 
 The end result should look like this:
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter/letter-update.png
 
-## This challenge is created and its author is [MDN](https://developer.mozilla.org)
+## The author of this challenge is [MDN](https://developer.mozilla.org)
