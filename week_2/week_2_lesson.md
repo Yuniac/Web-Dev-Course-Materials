@@ -8,8 +8,10 @@
 
 *   HTML forms
 
-*   HTML tables
+*   HTML tables (Thead, Tbody, Tfooter: TR, TD, TH)
 
 ## comments.
 
 ## our very first form.
+
+## Introduction to CSS
