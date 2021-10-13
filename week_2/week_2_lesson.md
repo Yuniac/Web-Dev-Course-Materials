@@ -1,4 +1,4 @@
-## Important Elements I haven't covered:
+## Elements:
 
 -   Lists
 
@@ -13,5 +13,3 @@
 ## comments.
 
 ## our very first form.
-
-## Introduction to CSS
