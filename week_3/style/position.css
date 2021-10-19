@@ -1,0 +1,16 @@
+.box {
+	width: 500px;
+	height: 100px;
+}
+.cyan {
+	background-color: cyan;
+}
+.lime {
+	background-color: lime;
+}
+.yellow {
+	background-color: yellow;
+}
+.purple {
+	background-color: purple;
+}

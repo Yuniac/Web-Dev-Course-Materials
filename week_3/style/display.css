@@ -1,0 +1,25 @@
+.rect {
+	width: 500px;
+	height: 100px;
+}
+.block {
+	background-color: cyan;
+}
+.block:last-of-type {
+	margin-bottom: 5rem;
+}
+
+.inline {
+	background-color: lime;
+	display: inline;
+	padding: 3rem;
+}
+
+.inline-block {
+	background-color: yellow;
+	display: inline-block;
+}
+
+.inline-block:last-of-type {
+	margin-top: 5rem;
+}
