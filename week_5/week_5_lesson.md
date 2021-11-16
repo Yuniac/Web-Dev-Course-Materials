@@ -36,5 +36,3 @@
 ## Other data types:
 
 -   booleans
-
--   undefined and null
