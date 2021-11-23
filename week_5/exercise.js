@@ -1,4 +1,4 @@
-const mystery = 'Password7'; //CHANGE THIS VALUE TO MAKE THE CONDITIONAL BELOW TRUE
+const mystery = 'mystery'; //CHANGE THIS VALUE TO MAKE THE CONDITIONAL BELOW TRUE
 
 
 
